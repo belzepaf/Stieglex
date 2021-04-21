@@ -31,3 +31,11 @@ Il suffit simplement de cliquer sur un élément pour avoir la fiche associée s
 ### Recherche
 
 Le champ "Rechercher" en haut à droite permet de taper un terme et d'avoir des suggestions de fiches présentes dans la sphère.
+
+## Ressources
+
+Hyperotlet
+
+Vocabulaire Ars Industrialis
+
+Vocabulaire Anne Alombert
